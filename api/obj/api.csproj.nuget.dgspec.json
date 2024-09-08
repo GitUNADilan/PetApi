@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DILANGOMEZCASANOVA\\Desktop\\Funda web\\api\\api.csproj": {}
+    "C:\\Users\\DILANGOMEZCASANOVA\\Documents\\PetApi\\api\\api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DILANGOMEZCASANOVA\\Desktop\\Funda web\\api\\api.csproj": {
+    "C:\\Users\\DILANGOMEZCASANOVA\\Documents\\PetApi\\api\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DILANGOMEZCASANOVA\\Desktop\\Funda web\\api\\api.csproj",
+        "projectUniqueName": "C:\\Users\\DILANGOMEZCASANOVA\\Documents\\PetApi\\api\\api.csproj",
         "projectName": "api",
-        "projectPath": "C:\\Users\\DILANGOMEZCASANOVA\\Desktop\\Funda web\\api\\api.csproj",
+        "projectPath": "C:\\Users\\DILANGOMEZCASANOVA\\Documents\\PetApi\\api\\api.csproj",
         "packagesPath": "C:\\Users\\DILANGOMEZCASANOVA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DILANGOMEZCASANOVA\\Desktop\\Funda web\\api\\obj\\",
+        "outputPath": "C:\\Users\\DILANGOMEZCASANOVA\\Documents\\PetApi\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DILANGOMEZCASANOVA\\AppData\\Roaming\\NuGet\\NuGet.Config"
